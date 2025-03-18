@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Yanur-Ali
-- 👀 I’m interested in tech and  AI.
-- 🌱 I’m currently learning Swift for ios dev.
+- into tech and  AI.
+- learning AI & Swift for ios dev.
 - 💻 Also learning DSA in JAVA, and PYTHON.
-- 💞️ I’m looking to collaborate on AI related stuff, or great startups.
-- 📫 How to reach me - Mail, Twitter.
+- 💞️ feel free to contribute (if any)
+- 📫 How to reach me - Mail.
   😄 ⚡
 
 <!---
